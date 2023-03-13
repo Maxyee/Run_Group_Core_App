@@ -36,7 +36,7 @@
     "RunGroupCoreApp": {
       "commandName": "Project",
       "launchBrowser": true,
-      "applicationUrl": "https://localhost:29241;http://localhost:41520",
+      "applicationUrl": "https://localhost:43819;http://localhost:15895",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
