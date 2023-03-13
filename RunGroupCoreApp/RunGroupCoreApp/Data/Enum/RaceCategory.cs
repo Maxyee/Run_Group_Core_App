@@ -3,7 +3,7 @@ namespace RunGroupCoreApp.Data.Enum
 {
 	public enum RaceCategory
 	{
-		Marthon,
+		Marathon,
 		Ultra,
 		FiveK,
 		TenK,
